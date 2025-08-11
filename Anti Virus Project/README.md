@@ -129,3 +129,8 @@ On start, you will be prompted to select a scan mode:
 ## Example Signature
 
 To test, you can create a small “signature” file (binary or text) and embed that sequence in a sample file. The scanner will report **"Infected!"** where applicable.
+
+---
+
+## License
+This project is free to use and modify for learning or personal purposes. If you share it publicly, please credit me.
